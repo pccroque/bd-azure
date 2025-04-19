@@ -17,7 +17,7 @@ Básico | Discos | Rede | Gerenciamento | Monitoramento | Avançado | Marcas | R
 Escolha a imagem e arquitetura da VM
 
 1.2 Conta da administrador
- Nome de usuário
+Nome de usuário
       
 2. Criar Banco de Dados SQL
 2.1 Detalhes do banco de dados:
