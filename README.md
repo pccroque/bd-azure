@@ -20,6 +20,7 @@ Escolha a imagem e arquitetura da VM
 Nome de usuário
       
 2. Criar Banco de Dados SQL
+
 2.1 Detalhes do banco de dados:
 - Nome do banco de dados
 - Servidor
